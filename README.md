@@ -36,10 +36,17 @@ Aguardar a implantação e disponibilização do recurso selecionado<br>
 Acesso no menu lateral a opção Máquinas virtuais<br>
 ![01](https://github.com/user-attachments/assets/cdd06096-641b-47ad-9686-5cfba4aacf82)
 
-Seleciona a opção de Criar >> Máquina virtual do Azure
+Seleciona a opção de Criar >> Máquina virtual do Azure<br>
 ![image](https://github.com/user-attachments/assets/307d27f5-cd0a-4715-a585-92e94b134592)
 
-Preencha os dados necessários
+Preencha os dados necessários<br>
 ![image](https://github.com/user-attachments/assets/1e735d74-9b24-436d-9feb-ef6e9016a5e4)
+
+Verifique as informações fornecidas antes de concluir:<Br>
+![image](https://github.com/user-attachments/assets/bf89e3d2-f572-4766-84d5-8486e096f9dd)
+
+Verificar a máquina criada no grupo de recursos<br>
+![image](https://github.com/user-attachments/assets/1fd92125-d922-4e88-a4bb-302811f50d81)
+
 
 
