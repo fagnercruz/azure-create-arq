@@ -31,3 +31,15 @@ Confirme os dados<br>
 Aguardar a implantação e disponibilização do recurso selecionado<br>
 ![09](https://github.com/user-attachments/assets/1a12b8b5-325b-42fd-819d-32dc86e063f5)
 
+## Criando uma Máquina Virtual
+
+Acesso no menu lateral a opção Máquinas virtuais<br>
+![01](https://github.com/user-attachments/assets/cdd06096-641b-47ad-9686-5cfba4aacf82)
+
+Seleciona a opção de Criar >> Máquina virtual do Azure
+![image](https://github.com/user-attachments/assets/307d27f5-cd0a-4715-a585-92e94b134592)
+
+Preencha os dados necessários
+![image](https://github.com/user-attachments/assets/1e735d74-9b24-436d-9feb-ef6e9016a5e4)
+
+
